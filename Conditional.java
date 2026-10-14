@@ -1,4 +1,4 @@
-public class Main {
+public class Conditional {
     public static void main(String[] args) {
         int num = 10;
 
