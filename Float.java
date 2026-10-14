@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class main{
+public class Float{
 
 public static void main(String[]args){
 
