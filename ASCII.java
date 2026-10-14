@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class main{
+public class ASCII{
 
 public static void main(String[] args){
 
